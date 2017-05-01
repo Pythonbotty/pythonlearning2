@@ -75,7 +75,7 @@ print sentb
 
 
 #keywords = string_input.split()
-keywords = ["glad"]
+keywords = ["glad","happy","sad"]
 
 
 #try to find a synonym in sentence a for sentence b and add a score accordingly

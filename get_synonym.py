@@ -19,7 +19,7 @@ def get_word_synonyms_from_sent(word, senta, sentb):
     for wording in word_synonyms:
         if wording in sentb:
             word_synonyms_match.append(wording)
-        return len(word_synonyms_match)
+    return len(word_synonyms_match)
 
 
 
